@@ -1,0 +1,31 @@
+.block {
+box-sizing: border-box;
+padding: 1em;
+}
+.block-1 {
+    box-sizing: border-box;
+padding: 2em;
+width: 15em;
+}
+.block-2 {
+    box-sizing: border-box;
+    padding: 1em 2em;
+    background-color: lightsalmon;
+    margin: 1em;
+}
+.img {
+    width: 20em;
+}
+.img-1 {
+    width: 8.9em;
+}
+.img-2 {
+    width: 20em;
+    padding: 2em 3em 4em 1em;
+}
+.block-3 {
+    min-width: 1em;
+    max-width: 10em;
+    min-height: 1em;
+    max-height: 5em;
+}
