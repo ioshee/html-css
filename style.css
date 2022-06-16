@@ -1,0 +1,35 @@
+.title {
+    color: #9362ee;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 20px;
+    line-height: 2;
+    font-weight: 700;
+}
+.text {
+    font-style: italic;
+}
+.text-2 {
+    text-align: right;
+    text-decoration: underline dotted;
+}
+.text-3 {
+    text-shadow: -1px 1px 1px #9362ee;
+}
+.text-4 {
+    text-transform: uppercase;
+    color: orange;
+    text-indent: 30px;
+}
+.text-5 {
+    text-transform: lowercase;
+    word-spacing: 10px;
+}
+.text-6 {
+    letter-spacing: 5px;
+}
+.text-7 {
+    white-space: nowrap;
+}
+.text-8 {
+    white-space: pre-wrap;
+}
